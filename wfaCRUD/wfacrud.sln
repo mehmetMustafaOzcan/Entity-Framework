@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wfacrud", "wfacrud\wfacrud.csproj", "{F9A3F00F-D5C6-4B15-8313-8191F49C46C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9A3F00F-D5C6-4B15-8313-8191F49C46C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9A3F00F-D5C6-4B15-8313-8191F49C46C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9A3F00F-D5C6-4B15-8313-8191F49C46C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9A3F00F-D5C6-4B15-8313-8191F49C46C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D41965EB-704B-4640-A7F8-160BB1938F6D}
+	EndGlobalSection
+EndGlobal
